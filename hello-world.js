@@ -1,7 +1,11 @@
 //var hello = function(){
 //   return  "Hello World" }
 
-function hello(){
+//function hello(){
+//  return "Hello World"
+//}
+
+hello(){
   return "Hello World"
 }
 
