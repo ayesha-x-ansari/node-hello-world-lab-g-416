@@ -1,2 +1,2 @@
-var hello = {
+var hello = function(){
    return  "Hello World" }
