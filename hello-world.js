@@ -1,5 +1,2 @@
-
-
-
-return
-var hello = function() { return  "Hello World" }
+var hello = function() {
+   return  "Hello World" }
