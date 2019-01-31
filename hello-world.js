@@ -1,4 +1,8 @@
-var hello = function(){
-   return  "Hello World" }
+//var hello = function(){
+//   return  "Hello World" }
 
-module.exports = hell
+function hello(){
+  return "Hello World"
+}
+
+module.exports = hello
