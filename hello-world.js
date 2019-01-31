@@ -1,5 +1,5 @@
 
 
 
-return 
+return
 var hello = function() { return  "Hello World" }
